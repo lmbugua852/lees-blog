@@ -7,7 +7,7 @@ function HomePage() {
       <Container>
         <div className="space-y-6">
           <h1 className="text-2xl font-bold">
-            Hey, I'm an independent Sofnware Consultant based in Huntington
+            Hey, I'm an independent Software Consultant based in Huntington
             Beach, California. I enjoy tickering with new tech and crafting
             beautiful front-end experiences.
           </h1>
