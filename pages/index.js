@@ -17,7 +17,7 @@ function HomePage() {
 
       <div className="container max-w-4xl m-auto px-4 mt-20">
         <Image
-          src="/desk.jpg"
+          src="/beach.jpg"
           alt="my desk"
           width={1920 / 2}
           height={1280 / 2}
