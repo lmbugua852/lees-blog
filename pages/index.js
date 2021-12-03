@@ -19,9 +19,8 @@ function HomePage() {
         <Image
           src="/beach.jpg"
           alt="beach life"
-          layout="fill"
-          objectFit="cover"
-          quality={100}
+          width={1920 / 2}
+          height={1280 / 2}
         />
       </div>
     </>
